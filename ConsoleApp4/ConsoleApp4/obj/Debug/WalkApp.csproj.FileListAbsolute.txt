@@ -1,0 +1,10 @@
+C:\dotnet\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\dotnet\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\dotnet\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\dotnet\ConsoleApp4\ConsoleApp4\obj\Debug\WalkApp.csproj.AssemblyReference.cache
+C:\dotnet\ConsoleApp4\ConsoleApp4\obj\Debug\WalkApp.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\ConsoleApp4\ConsoleApp4\obj\Debug\WalkForm.resources
+C:\dotnet\ConsoleApp4\ConsoleApp4\obj\Debug\WalkApp.csproj.GenerateResource.cache
+C:\dotnet\ConsoleApp4\ConsoleApp4\obj\Debug\WalkApp.csproj.CoreCompileInputs.cache
+C:\dotnet\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\dotnet\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
